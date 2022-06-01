@@ -1,1 +1,1 @@
-# kagawa-regsci.github.io
+# 地域科学セミナー
