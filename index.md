@@ -1,9 +1,4 @@
 # Upcoming Seminar
 - test
 
-# Past Seminars
-## 2021
-- test
-
-## 2020
-- test
+過去の開催情報は[こちら](./past/)．
