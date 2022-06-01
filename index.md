@@ -1,8 +1,6 @@
 # Upcoming Seminar
 - test
 
-## subtitle
-- This is ...
-
-### Test
-- faefae
+# Past Seminars
+## 2021
+- test
