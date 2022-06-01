@@ -1,4 +1,16 @@
 # Past Seminars
+
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
+
+- [Past Seminars](#past-seminars)
+    - [2021](#2021)
+    - [2020](#2020)
+    - [2019](#2019)
+
+<!-- markdown-toc end -->
+
+
 ## 2021
 
 September 10 (Fri.), 2021, 10:30-12:00
