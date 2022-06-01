@@ -1,6 +1,4 @@
-# 地域科学セミナーtest
-
-# Title
+## Title
 
 ## subtitle
 - This is ...
