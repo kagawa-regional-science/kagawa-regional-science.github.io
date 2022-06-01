@@ -1,2 +1,2 @@
-# 地域科学セミナー
+# 地域科学セミナーtest
 - This is the first line.
