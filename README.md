@@ -1,0 +1,1 @@
+# kagawa-regsci.github.io
