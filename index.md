@@ -4,7 +4,7 @@ June 28 (Tue.), 2022, 13:30-15:00
 
 ハイブリッド開催
 - 香川大学幸町北キャンパス2号館2階 遠隔教育調査研究室（ [キャンパスマップ](https://www.kagawa-u.ac.jp/access/saiwai/)の8番）
-- Zoom（[こちら](https://kagawa-u-ac-jp.zoom.us/meeting/register/tZ0sf-Gtqz8qGdcPWa_A4bpxT5eiuFf5J3K9)より事前登録）
+- Zoom（[こちら](https://kagawa-u-ac-jp.zoom.us/meeting/register/tZ0sf-Gtqz8qGdcPWa_A4bpxT5eiuFf5J3K9)より事前登録が必要です）
 
 **青木 高明 氏 Takaaki Aoki** (Kagawa University)
 
