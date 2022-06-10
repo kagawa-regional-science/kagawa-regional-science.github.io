@@ -8,6 +8,8 @@ June 28 (Tue.), 2022, 13:30-15:00
 
 **青木 高明 氏 Takaaki Aoki** (Kagawa University)
 
+[https://www.ed.kagawa-u.ac.jp/~aoki/](https://www.ed.kagawa-u.ac.jp/~aoki/)
+
 Title: **人流データに基づく都市空間構造の可視化: OD 行列の Hodge-小平分解**
 
 Abstract: 
