@@ -80,9 +80,10 @@ Abstract: We study the entry timing and location decisions of two exclusive buye
 ---
 
 February 23 (Fri.), 2018, 14:15-17:30
+
 14:15-15:45
 
-**中川 万理子 氏 Mariko Nakagawa (University of Tokyo)**
+**中川 万理子 氏 Mariko Nakagawa** (University of Tokyo)
 
 **Skill Transference and International Migration: A Theoretical Analysis on Skilled Migration to the Anglosphere**
 
@@ -90,15 +91,17 @@ Abstract: In this paper, we analyze how skill transference from an origin to des
 
 16:00-17:30
 
-**岡本 千草 氏 Chigusa Okamoto (University of Tokyo)**
+**岡本 千草 氏 Chigusa Okamoto** (University of Tokyo)
+
 **The Effect of Automation on US Interstate Migration**
+
 Abstract: This study investigates the extent to which job process automation has affected US interstate migration in the 2000s and 2010s. By using data on the degree of automation of each occupation, the magnitude of the impact of automation in each state is calculated. In particular, this study examines how the difference in the impacts among states explains the movement of migrants. The results show that people move to a state with more automation especially in high-skilled occupations. Further, migration flow data classified by skill level show that migrants are mainly high-skilled workers. This finding implies that automation has a complementary effect, or at least not a strong substitution effect on high-skilled workers.
 
 ## 2017
 
 December 22 (Fri.), 2017, 16:00-17:30
 
-**加藤 隼人 氏 Hayato Kato (Keio University)**
+**加藤 隼人 氏 Hayato Kato** (Keio University)
 
 **Transfer Pricing and Firm Location (with Hirofumi Okoshi)**
 
@@ -108,7 +111,8 @@ Abstract: Amid economic integration, global concerns have been raised on low-tax
 
 November 17 (Fri.), 2017, 16:00-17:30
 
-**田中 隆一 氏 Ryuichi Tanaka (University of Tokyo)**
+**田中 隆一 氏 Ryuichi Tanaka** (University of Tokyo)
+
 **Do Teachers Matter for Academic Achievement of Students?: Evidence from Administrative Panel Data (with S. Bessho, A. Kawamura, H. Noguchi, and K. Ushijima)**
 
 Abstract: This paper examines empirically the effect of teachers on students' academic outcomes. Using large administrative panel data of reading and math test scores of students in public elementary schools in a municipality in Japan, we estimate the distribution of teacher fixed effects controlling for student, school, and year fixed effects. Our results show that teacher fixed effects are substantial: improvement of teacher fixed effect by one standard deviation raises student's z-score by 0.23 standard deviation for reading and by 0.32 standard deviation for math. Our estimates show that both teacher's experience and class size matter for students' achievement of both reading and math. The magnitude of the teacher effect is equal to the class size effect with reduction of 3.1 students for reading z-score and 5.9 students for math z-score.
@@ -117,7 +121,7 @@ Abstract: This paper examines empirically the effect of teachers on students' ac
 
 October 23 (Mon.), 2017, 16:00-17:30
 
-**相浦 洋志 氏 Hiroshi Aiura (Nanzan University)**
+**相浦 洋志 氏 Hiroshi Aiura** (Nanzan University)
 
 **The Effect of Cross-Border Healthcare on Quality, Public Health Insurance, and Income Redistribution**
 
@@ -127,7 +131,7 @@ Abstract: In this study, we examine the effect of cross-border healthcare with p
 
 September 15 (Fri.), 2017, 16:00-17:30
 
-**小橋 文子 氏 Ayako Obashi (Aoyama Gakuin University)**
+**小橋 文子 氏 Ayako Obashi** (Aoyama Gakuin University)
 
 **Trade Policy and Production Location with Cross-Border Unbundling**
 
@@ -139,14 +143,15 @@ August 25 (Fri.), 2017, 14:15-17:30
 
 14:15-15:45
 
-**髙塚 創 氏 Hajime Takatsuka (Kagawa University)**
+**髙塚 創 氏 Hajime Takatsuka** (Kagawa University)
+
 **Interactions of Trade and Investment Policies**
 
 Abstract: In this study, we examine the effects of availability of capital taxes/subsidies on tariff policy and national welfare. To this aim, we use intra-industry trade models with symmetric two countries featuring mobile capital. As a benchmark case, a model with iceberg-type tariffs (Venables, 1987; Baldwin et al., 2003) is employed, and we show that the equilibrium capital tax rate is negative, which reduces tariff rates and improves efficiency. Second, we introduce ad valorem tariffs into the previous model, considering tariff revenue. In this case, we find that the above results hold if transportation costs are high. Otherwise, the equilibrium capital tax may turn to be positive and we could have the opposite results to the iceberg-tariff case. Finally, different from the previous two cases, we explore the issue in a model in which mobile capital is used as a variable input. Since capital taxes have a terms-or-trade effect in this case, the equilibrium capital tax rate is always positive, which raises tariff rates and worsens efficiency.
 
 16:00-17:30
 
-**荒 知宏 氏 Tomohiro Ara (Fukushima University)**
+**荒 知宏 氏 Tomohiro Ara** (Fukushima University)
 
 **Relationship Specificity, Market Thickness and International Trade (with Taiji Furusawa)**
 
@@ -155,7 +160,7 @@ Abstract: We develop a dynamic, search-theoretical, general-equilibrium model to
 ---
 July 28 (Fri.), 2017, 16:00-17:30
 
-**野口 晴子 氏 Haruko Noguchi (Waseda University)**
+**野口 晴子 氏 Haruko Noguchi** (Waseda University)
 
 **Spillover Effect of Japanese Long-Term Care Insurance as an Employment Promotion Policy for Family Caregivers (with Rong Fu, Akira Kawamura, Hideto Takahashi, and Nanako Tamiya)**
 
@@ -165,7 +170,7 @@ Abstract: We evaluate a spillover effect of the Japanese public long-term care i
 
 June 9 (Fri.), 2017, 16:00-17:30
 
-**藤嶋 翔太 氏 Shota Fujishima (Tokyo University of Science)**
+**藤嶋 翔太 氏 Shota Fujishima** (Tokyo University of Science)
 
 **The Size Distribution of 'Cities' Delineated with a Network Theory-based Method and Smartphone GPS Data (with Naoya Fujiwara, Yuki Akiyama, Ryosuke Shibasaki, and Hodaka Kaneda)**
 
@@ -175,7 +180,7 @@ Abstract: We apply a method of community detection in network theory called map 
 
 May 26 (Fri.), 2017, 16:00-17:30
 
-**青木 高明 氏 Takaaki Aoki (Kagawa University)**
+**青木 高明 氏 Takaaki Aoki** (Kagawa University)
 
 **Cities and Roads as Pattern Formation on Landscape (with T. Nakagaki, N. Fujiwara, and Y.S. Hayakawa)**
 
@@ -185,7 +190,7 @@ Abstract: In this talk, we report a math-geographical approach to study the patt
 
 April 28 (Fri.), 2017, 16:00-17:30
 
-**宮﨑 浩一 氏 Koichi Miyazaki (Kagawa University)**
+**宮﨑 浩一 氏 Koichi Miyazaki** (Kagawa University)
 
 **Benefits of Borrowing Constraints in an Endogenous Growth Model**
 
@@ -195,7 +200,7 @@ Abstract: This study analytically examines the effect of the burden of student l
 
 March 3 (Fri.), 2017, 16:00-17:30
 
-**松尾 美和 氏 Miwa Matsuo (Kobe University)**
+**松尾 美和 氏 Miwa Matsuo** (Kobe University)
 
 **Wasted in Vehicle: Travel Behavior of Children in Hispanic Immigrant Families**
 
@@ -205,7 +210,7 @@ Abstract: In the U.S., Hispanic immigrant households who have low access to priv
 
 February 10 (Fri.), 2017, 16:00-17:30
 
-**中島 賢太郎 氏 Kentaro Nakajima (Tohoku University)**
+**中島 賢太郎 氏 Kentaro Nakajima** (Tohoku University)
 
 **Identifying Neighborhood Effects among Firms: Evidence from Location Lotteries of the Tokyo Fish Market (with Kensuke Teshima)**
 
@@ -215,7 +220,7 @@ Abstract: The idea that firms benefit from the characteristics of neighboring fi
 
 January 20 (Fri.), 2017, 16:00-17:30
 
-**小野 善康 氏 Yoshiyasu Ono (Osaka University)**
+**小野 善康 氏 Yoshiyasu Ono** (Osaka University)
 
 **Growth, Secular Stagnation and Wealth Preference**
 
@@ -225,7 +230,7 @@ Abstract: In the early 1990s the Japanese economy suddenly stopped growing and s
 
 December 16 (Fri.), 2016, 16:00-17:30
 
-**伊藤 亮 氏 Ryo Itoh (Tohoku University)**
+**伊藤 亮 氏 Ryo Itoh** (Tohoku University)
 
 **A New Method of Inter-Regional Input-Output Analysis under Modern Economic Frameworks: Isard Revisited?**
 
@@ -235,7 +240,7 @@ Abstract: This study suggests a method of input-output analysis originated from 
 
 November 4 (Fri.), 2016, 16:00-17:30
 
-**山口 力 氏 Chikara Yamaguchi (Hiroshima University)**
+**山口 力 氏 Chikara Yamaguchi** (Hiroshima University)
 
 **Does Endogenous Timing Matter in Implementing Partial Tax Harmonization? (with Jun-ichi Itaya)**
 
@@ -244,7 +249,7 @@ Abstract: The endogenous timing of moves is analyzed in a repeated game setting 
 ---
 October 14 (Fri.), 2016, 16:00-17:30
 
-**小川 禎友 氏 Yoshitomo Ogawa (Kindai University)**
+**小川 禎友 氏 Yoshitomo Ogawa** (Kindai University)
 
 **Optimal Indirect Taxation in an Open Economy**
 
@@ -253,7 +258,7 @@ Abstract: This paper analyzes optimal indirect taxation, consisting of commodity
 ---
 September 30 (Fri.), 2016, 16:00-17:30
 
-**小川 光 氏 Hikaru Ogawa (University of Tokyo)**
+**小川 光 氏 Hikaru Ogawa** (University of Tokyo)
 
 **Endogenizing Government's Objectives in Tax Competition with Capital Ownership (with Keisuke Kawachi and Taiki Susa)**
 
@@ -265,6 +270,7 @@ September 3 (Sat.), 2016, 10:00-18:15
 Venue: 香川大学幸町南キャンパス・南1号館2階・E22教室（交通案内）
 
 **GRIPS Policy Modeling Conference 2016**
+
 プログラムの詳細や参加申し込み方法等は，主催者の下記サイトをご覧下さい．
 GRIPS Policy Modeling Workshop (PMW)
 
@@ -276,7 +282,7 @@ Venue: 香川大学幸町南キャンパス・又信記念館2階・第3会議�
 
 14:40-16:10
 
-**澤田 有希子 氏 Yukiko Sawada (Osaka University)**
+**澤田 有希子 氏 Yukiko Sawada** (Osaka University)
 
 **Commitment, Foreign Ownership, and Multinational Firms**
 
@@ -284,7 +290,8 @@ Abstract: We investigate the effect of investment of management by a local partn
 
 16:30-18:00
 
-**馬 岩 氏 Yan Ma (Kobe University)**
+**馬 岩 氏 Yan Ma** (Kobe University)
+
 **Supermodularity, Comparative Advantage, and Global Supply Chains**
 
 Abstract: We develop a North-South model with many tasks to investigate how task asymmetry and task complementarity affect the South getting involved in global supply chains. Task complementarity is considered using a mathematical property known as supermodularity. We demonstrate that the South is excluded from global supply chains if the production process exhibits supermodularity and tasks are symmetric. When tasks are asymmetric, there is a trade-off between the supermodularity effect and the comparative advantage effect to determine whether the South can get involved in the global supply chain. If the comparative advantage effect dominates the supermodularity effect, the South gets involved in the global supply chains and there exist gains from trade in tasks, which is complementary to the "productivity effect" in Grossman and Rossi-Hansberg (2008). Moreover, we demonstrate that the chain of comparative advantage may vary with the number of tasks offshored, due to complementarities between tasks. This contrasts with the predictions of standard Ricardian model, which only depends on comparative advantage.
@@ -293,15 +300,16 @@ Abstract: We develop a North-South model with many tasks to investigate how task
 
 March 11 (Fri.), 2016, 16:30-18:00
 
-**古沢 泰治 氏 Taiji Furusawa (Hitotsubashi University)**
+**古沢 泰治 氏 Taiji Furusawa** (Hitotsubashi University)
 
-Offshoring, Relationship-Specificity, and Domestic Production Networks (with Keiko Ito, Tomohiko Inui, and Heiwai Tang)
+**Offshoring, Relationship-Specificity, and Domestic Production Networks (with Keiko Ito, Tomohiko Inui, and Heiwai Tang)**
+
 Abstract: An economy is an interlinked web of production units. This paper examines both theoretically and empirically how firms' offshoring decisions lead to reorganization of domestic production networks. We build a buyer-seller model that features supplier heterogeneity in efficiency and distance, as well as intermediate inputs that vary in the degree of specificity to the relationship with the buyer. A drop in offshoring costs will induce the more productive buyers to replace some of the less efficient domestic suppliers with foreign suppliers, with generic input suppliers more likely to be dropped despite their higher productivity. The resulting reduction in input costs will induce buyers to expand the geographic scope of domestic outsourcing. Using unique and exhaustive data on the buyer-seller network in Japan, we find evidence supporting the main predictions of the model.
 
 ---
 February 19 (Fri.), 2016, 16:30-18:00
 
-**高橋 孝明 氏 Takaaki Takahashi (University of Tokyo)**
+**高橋 孝明 氏 Takaaki Takahashi** (University of Tokyo)
 
 **A Tale of Two Cities: Urban Spatial Structure and Mode of Transportation**
 
@@ -311,7 +319,7 @@ Abstract: This paper discusses the interdependence of the spatial structure of a
 
 January 29 (Fri.), 2016, 16:30-18:00
 
-**荒見 玲子 氏 Reiko Arami (Nagoya University)**
+**荒見 玲子 氏 Reiko Arami** (Nagoya University)
 
 **介護認定のガバナンス**
 
@@ -322,7 +330,7 @@ Abstract: 本報告では、「委任」と「分業」で特徴づけられる�
 
 January 22 (Fri.), 2016, 16:30-18:00
 
-**内藤 巧 氏 Takumi Naito (Waseda University)**
+**内藤 巧 氏 Takumi Naito** (Waseda University)
 
 **A Larger Country Sets a Lower Optimal Tariff**
 
@@ -334,7 +342,7 @@ December 25 (Fri.), 2015, 14:50-18:00
 
 14:50-16:20
 
-**大城 淳 氏 Jun Oshiro (Okinawa University)**
+**大城 淳 氏 Jun Oshiro** (Okinawa University)
 
 **Industrial Structure in Urban Accounting (with Yasuhiro Sato)**
 
@@ -342,7 +350,7 @@ Abstract: We develop a multisector general equilibrium model of a system of citi
 
 16:30-18:00
 
-**森 知也 氏 Tomoya Mori (Kyoto University)**
+**森 知也 氏 Tomoya Mori** (Kyoto University)
 
 **Spatial Scales of Industrial Agglomerations and their Sensitivity to Transport Costs (with Se-il Mun, Shosei Sakaguchi, and Kohei Takeda)**
 
@@ -352,7 +360,7 @@ Abstract: In this paper, we identify the locations of individual agglomerations 
 
 November 20 (Fri.), 2015, 16:30-18:00
 
-**柳瀬 明彦 氏 Akihiko Yanase (Nagoya University)**
+**柳瀬 明彦 氏 Akihiko Yanase** (Nagoya University)
 
 **Trade Costs and Welfare-worsening Free Trade Agreement (with Masafumi Tsubuku)**
 
@@ -362,7 +370,7 @@ Abstract: This paper examines the effects of concluding a free trade agreement (
 
 October 23 (Fri.), 2015, 16:30-18:00
 
-**有賀 健 氏 Kenn Ariga (Kyoto University)**
+**有賀 健 氏 Kenn Ariga** (Kyoto University)
 
 **Minimum Wage through the Looking Glass**
 
@@ -372,7 +380,7 @@ Abstract: We investigate impacts of two major increases in minimum wage of Thail
 
 October 1 (Thu.), 2015, 16:30-18:00
 
-**森田 果 氏 Hatsuru Morita (Tohoku University)**
+**森田 果 氏 Hatsuru Morita** (Tohoku University)
 
 **Criminal Prosecution and Physician Supply**
 
@@ -382,7 +390,7 @@ Abstract: While there are many evidences of the effect of medical malpractice to
 
 September 18 (Fri.), 2015, 16:30-18:00 (Joint with Economics Workshop)
 
-**三好 祐輔 氏 Yusuke Miyoshi (Kagawa University)**
+**三好 祐輔 氏 Yusuke Miyoshi** (Kagawa University)
 
 **情報漏えいにつながる行動に関する実証分析 (with 竹村敏彦，花村憲一)**
 
@@ -392,7 +400,7 @@ Abstract: 情報セキュリティの観点から問題となる行動の中で�
 
 September 11 (Fri.), 2015, 16:30-18:00 (Joint with Economics Workshop)
 
-**青木 高明 氏 Takaaki Aoki (Kagawa University)**
+**青木 高明 氏 Takaaki Aoki** (Kagawa University)
 
 **近世・近代の郡村誌データに基づく村落ネットワークのクラスタ解析 (with S. Murayama, N. Higashi, T. Mizoguchi)**
 
@@ -406,13 +414,20 @@ August 20 (Thu.), 2015, 12:55-18:00
 
 Speakers:
 
-**田渕 隆俊 氏 Takatoshi Tabuchi （University of Tokyo）**
+**田渕 隆俊 氏 Takatoshi Tabuchi** (University of Tokyo)
+
 **Elastic Labor Supply and Agglomeration (with T. Ago, T. Morita, K. Yamamoto)**
-**曽 道智 氏 Dao-Zhi Zeng （Tohoku University）**
+
+**曽 道智 氏 Dao-Zhi Zeng** (Tohoku University)
+
 **Mobile Capital, International Inequalities, and the Welfare Gains from Trade (with X. Yang)**
-**村田 安寧 氏 Yasusada Murata （Nihon University）**
+
+**村田 安寧 氏 Yasusada Murata** (Nihon University)
+
 **New Trade Models, Elusive Welfare Gains (with K. Behrens, Y. Kanemoto)**
-**大久保 敏弘 氏 Toshihiro Okubo （Keio University）**
+
+**大久保 敏弘 氏 Toshihiro Okubo** (Keio University)
+
 **Early Agglomeration or Late Agglomeration?: Two Phases of Development with Spatial Sorting (with R. Forslid)**
 
 Detailed Program (2015.7.24.version)
@@ -421,7 +436,8 @@ Detailed Program (2015.7.24.version)
 
 May 19 (Tue.), 2015, 14:50-16:20 (Joint with Economics Workshop)
 
-**髙塚 創 氏 Hajime Takatsuka (Kagawa University)**
+**髙塚 創 氏 Hajime Takatsuka** (Kagawa University)
+
 **介護保険法の2005年改正と要介護認定における評価バイアス: 自然実験的検証 (with 石濱実花, 岩田龍郎)**
 
 Abstract: 介護保険法の2005年改正によって，従前の要介護度区分における「要支援」は「要支援1」と呼ばれるようになり，給付限度額の引き下げがなされた．本研究では，ある中核市の介護給付費レセプトデータを用いて，こういった制度改正が要介護認定の評価に与えた影響を検証する．自然実験（natural experiment）の考えを用いて検証を行ったところ，要支援維持率は改正後において有意に低い結果が得られ，給付限度額の引き下げ等を回避するために，要介護認定評価にバイアスが加えられた可能性が示唆された．
@@ -430,7 +446,7 @@ Abstract: 介護保険法の2005年改正によって，従前の要介護度区
 
 February 27 (Fri.), 2015, 16:30-18:00 (Joint with Economics Workshop)
 
-**森田 忠士 氏 Tadashi Morita (Kindai University)**
+**森田 忠士 氏 Tadashi Morita** (Kindai University)
 
 **Trade Integration, Welfare and Horizontal Multinationals: A Three-Country Model (with Fabio Cerina and Kazuhiro Yamamoto)**
 
@@ -442,7 +458,7 @@ September 11 (Thu.), 2014, 16:30-18:00 (Joint with Economics Workshop)
 
 幸町南キャンパス・又信記念館2階・第3会議室
 
-**長町 康平 氏 Kohei Nagamachi (Kagawa University)**
+**長町 康平 氏 Kohei Nagamachi** (Kagawa University)
 
 **Welfare Gain from Functional Specialization of Cities**
 

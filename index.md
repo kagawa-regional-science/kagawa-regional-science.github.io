@@ -2,9 +2,13 @@
 
 June 28 (Tue.), 2022, 13:30-15:00
 
-Venue: TBA
+ハイブリッド開催
+- 香川大学幸町北キャンパス2号館2階 遠隔教育調査研究室（ [キャンパスマップ](https://www.kagawa-u.ac.jp/access/saiwai/)の8番）
+- Zoom（[こちら](https://kagawa-u-ac-jp.zoom.us/meeting/register/tZ0sf-Gtqz8qGdcPWa_A4bpxT5eiuFf5J3K9)より事前登録が必要です）
 
 **青木 高明 氏 Takaaki Aoki** (Kagawa University)
+
+[https://www.ed.kagawa-u.ac.jp/~aoki/](https://www.ed.kagawa-u.ac.jp/~aoki/)
 
 Title: **人流データに基づく都市空間構造の可視化: OD 行列の Hodge-小平分解**
 
@@ -13,17 +17,17 @@ Abstract:
 しかし，人流データをそのまま可視化・理解することは容易ではない．地点の情報ではなく，地点間の関係情報であるためである．
 その解決として，人流のポテンシャル場を導入する．この手法によって，水が高いところから低いところに流れるように，ポテンシャル場の勾配によって，人流の全体像を直感的に可視化・理解することが可能になる．
 
-Urban spatial structures from human flow by Hodge-Kodaira decomposition, Takaaki Aoki, Shota Fujishima & Naoya Fujiwara, https://arxiv.org/abs/2111.00377 
+Urban spatial structures from human flow by Hodge-Kodaira decomposition, Takaaki Aoki, Shota Fujishima & Naoya Fujiwara, [https://arxiv.org/abs/2111.00377](https://arxiv.org/abs/2111.00377)
 
 ---
 
 世話人：
 
-青木 高明（香川大学教育学部）
+青木 高明（香川大学教育学部）[[Personal Website](https://www.ed.kagawa-u.ac.jp/~aoki/)]
 
 島根 哲哉（香川大学地域マネジメント研究科）
 
-長町 康平（香川大学地域マネジメント研究科）
+長町 康平（香川大学地域マネジメント研究科）[[Personal Website](https://koheinagamachi.com/)]
 
 連絡先：
 
