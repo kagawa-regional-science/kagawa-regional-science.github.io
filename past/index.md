@@ -92,7 +92,9 @@ Abstract: In this paper, we analyze how skill transference from an origin to des
 16:00-17:30
 
 **岡本 千草 氏 Chigusa Okamoto** (University of Tokyo)
+
 **The Effect of Automation on US Interstate Migration**
+
 Abstract: This study investigates the extent to which job process automation has affected US interstate migration in the 2000s and 2010s. By using data on the degree of automation of each occupation, the magnitude of the impact of automation in each state is calculated. In particular, this study examines how the difference in the impacts among states explains the movement of migrants. The results show that people move to a state with more automation especially in high-skilled occupations. Further, migration flow data classified by skill level show that migrants are mainly high-skilled workers. This finding implies that automation has a complementary effect, or at least not a strong substitution effect on high-skilled workers.
 
 ## 2017
@@ -110,6 +112,7 @@ Abstract: Amid economic integration, global concerns have been raised on low-tax
 November 17 (Fri.), 2017, 16:00-17:30
 
 **田中 隆一 氏 Ryuichi Tanaka** (University of Tokyo)
+
 **Do Teachers Matter for Academic Achievement of Students?: Evidence from Administrative Panel Data (with S. Bessho, A. Kawamura, H. Noguchi, and K. Ushijima)**
 
 Abstract: This paper examines empirically the effect of teachers on students' academic outcomes. Using large administrative panel data of reading and math test scores of students in public elementary schools in a municipality in Japan, we estimate the distribution of teacher fixed effects controlling for student, school, and year fixed effects. Our results show that teacher fixed effects are substantial: improvement of teacher fixed effect by one standard deviation raises student's z-score by 0.23 standard deviation for reading and by 0.32 standard deviation for math. Our estimates show that both teacher's experience and class size matter for students' achievement of both reading and math. The magnitude of the teacher effect is equal to the class size effect with reduction of 3.1 students for reading z-score and 5.9 students for math z-score.
@@ -141,6 +144,7 @@ August 25 (Fri.), 2017, 14:15-17:30
 14:15-15:45
 
 **髙塚 創 氏 Hajime Takatsuka** (Kagawa University)
+
 **Interactions of Trade and Investment Policies**
 
 Abstract: In this study, we examine the effects of availability of capital taxes/subsidies on tariff policy and national welfare. To this aim, we use intra-industry trade models with symmetric two countries featuring mobile capital. As a benchmark case, a model with iceberg-type tariffs (Venables, 1987; Baldwin et al., 2003) is employed, and we show that the equilibrium capital tax rate is negative, which reduces tariff rates and improves efficiency. Second, we introduce ad valorem tariffs into the previous model, considering tariff revenue. In this case, we find that the above results hold if transportation costs are high. Otherwise, the equilibrium capital tax may turn to be positive and we could have the opposite results to the iceberg-tariff case. Finally, different from the previous two cases, we explore the issue in a model in which mobile capital is used as a variable input. Since capital taxes have a terms-or-trade effect in this case, the equilibrium capital tax rate is always positive, which raises tariff rates and worsens efficiency.
@@ -266,6 +270,7 @@ September 3 (Sat.), 2016, 10:00-18:15
 Venue: 香川大学幸町南キャンパス・南1号館2階・E22教室（交通案内）
 
 **GRIPS Policy Modeling Conference 2016**
+
 プログラムの詳細や参加申し込み方法等は，主催者の下記サイトをご覧下さい．
 GRIPS Policy Modeling Workshop (PMW)
 
@@ -286,6 +291,7 @@ Abstract: We investigate the effect of investment of management by a local partn
 16:30-18:00
 
 **馬 岩 氏 Yan Ma** (Kobe University)
+
 **Supermodularity, Comparative Advantage, and Global Supply Chains**
 
 Abstract: We develop a North-South model with many tasks to investigate how task asymmetry and task complementarity affect the South getting involved in global supply chains. Task complementarity is considered using a mathematical property known as supermodularity. We demonstrate that the South is excluded from global supply chains if the production process exhibits supermodularity and tasks are symmetric. When tasks are asymmetric, there is a trade-off between the supermodularity effect and the comparative advantage effect to determine whether the South can get involved in the global supply chain. If the comparative advantage effect dominates the supermodularity effect, the South gets involved in the global supply chains and there exist gains from trade in tasks, which is complementary to the "productivity effect" in Grossman and Rossi-Hansberg (2008). Moreover, we demonstrate that the chain of comparative advantage may vary with the number of tasks offshored, due to complementarities between tasks. This contrasts with the predictions of standard Ricardian model, which only depends on comparative advantage.
@@ -296,7 +302,8 @@ March 11 (Fri.), 2016, 16:30-18:00
 
 **古沢 泰治 氏 Taiji Furusawa** (Hitotsubashi University)
 
-Offshoring, Relationship-Specificity, and Domestic Production Networks (with Keiko Ito, Tomohiko Inui, and Heiwai Tang)
+**Offshoring, Relationship-Specificity, and Domestic Production Networks (with Keiko Ito, Tomohiko Inui, and Heiwai Tang)**
+
 Abstract: An economy is an interlinked web of production units. This paper examines both theoretically and empirically how firms' offshoring decisions lead to reorganization of domestic production networks. We build a buyer-seller model that features supplier heterogeneity in efficiency and distance, as well as intermediate inputs that vary in the degree of specificity to the relationship with the buyer. A drop in offshoring costs will induce the more productive buyers to replace some of the less efficient domestic suppliers with foreign suppliers, with generic input suppliers more likely to be dropped despite their higher productivity. The resulting reduction in input costs will induce buyers to expand the geographic scope of domestic outsourcing. Using unique and exhaustive data on the buyer-seller network in Japan, we find evidence supporting the main predictions of the model.
 
 ---
@@ -408,12 +415,19 @@ August 20 (Thu.), 2015, 12:55-18:00
 Speakers:
 
 **田渕 隆俊 氏 Takatoshi Tabuchi** (University of Tokyo)
+
 **Elastic Labor Supply and Agglomeration (with T. Ago, T. Morita, K. Yamamoto)**
+
 **曽 道智 氏 Dao-Zhi Zeng** (Tohoku University)
+
 **Mobile Capital, International Inequalities, and the Welfare Gains from Trade (with X. Yang)**
+
 **村田 安寧 氏 Yasusada Murata** (Nihon University)
+
 **New Trade Models, Elusive Welfare Gains (with K. Behrens, Y. Kanemoto)**
+
 **大久保 敏弘 氏 Toshihiro Okubo** (Keio University)
+
 **Early Agglomeration or Late Agglomeration?: Two Phases of Development with Spatial Sorting (with R. Forslid)**
 
 Detailed Program (2015.7.24.version)
@@ -423,6 +437,7 @@ Detailed Program (2015.7.24.version)
 May 19 (Tue.), 2015, 14:50-16:20 (Joint with Economics Workshop)
 
 **髙塚 創 氏 Hajime Takatsuka** (Kagawa University)
+
 **介護保険法の2005年改正と要介護認定における評価バイアス: 自然実験的検証 (with 石濱実花, 岩田龍郎)**
 
 Abstract: 介護保険法の2005年改正によって，従前の要介護度区分における「要支援」は「要支援1」と呼ばれるようになり，給付限度額の引き下げがなされた．本研究では，ある中核市の介護給付費レセプトデータを用いて，こういった制度改正が要介護認定の評価に与えた影響を検証する．自然実験（natural experiment）の考えを用いて検証を行ったところ，要支援維持率は改正後において有意に低い結果が得られ，給付限度額の引き下げ等を回避するために，要介護認定評価にバイアスが加えられた可能性が示唆された．
