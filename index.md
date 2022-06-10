@@ -20,11 +20,11 @@ Urban spatial structures from human flow by Hodge-Kodaira decomposition, Takaaki
 
 世話人：
 
-青木 高明（香川大学教育学部）
+青木 高明（香川大学教育学部）[[Personal Website](https://www.ed.kagawa-u.ac.jp/~aoki/)]
 
 島根 哲哉（香川大学地域マネジメント研究科）
 
-長町 康平（香川大学地域マネジメント研究科）
+長町 康平（香川大学地域マネジメント研究科）[[Personal Website](https://koheinagamachi.com/)]
 
 連絡先：
 
