@@ -2,9 +2,8 @@
 
 June 28 (Tue.), 2022, 13:30-15:00
 
-Zoom及び香川大学幸町北キャンパス2号館2階 遠隔教育調査研究室（ [キャンパスマップ](https://www.kagawa-u.ac.jp/access/saiwai/)の8番）
-
-オンライン参加される方は[こちら](dummy)より事前登録をお願いします（会議へのログインに必要な情報やキャンセル方法が自動送信されます）．
+- Zoom（[こちら](https://URL)より事前登録）
+- 香川大学幸町北キャンパス2号館2階 遠隔教育調査研究室（ [キャンパスマップ](https://www.kagawa-u.ac.jp/access/saiwai/)の8番）
 
 **青木 高明 氏 Takaaki Aoki** (Kagawa University)
 
