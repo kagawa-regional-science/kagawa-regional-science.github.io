@@ -2,7 +2,9 @@
 
 June 28 (Tue.), 2022, 13:30-15:00
 
-Venue: TBA
+Zoom及び香川大学幸町北キャンパス2号館2階 遠隔教育調査研究室（ [キャンパスマップ](https://www.kagawa-u.ac.jp/access/saiwai/)の8番）
+
+オンライン参加される方は[こちら](dummy)より事前登録をお願いします（会議へのログインに必要な情報やキャンセル方法が自動送信されます）．
 
 **青木 高明 氏 Takaaki Aoki** (Kagawa University)
 
@@ -13,7 +15,7 @@ Abstract:
 しかし，人流データをそのまま可視化・理解することは容易ではない．地点の情報ではなく，地点間の関係情報であるためである．
 その解決として，人流のポテンシャル場を導入する．この手法によって，水が高いところから低いところに流れるように，ポテンシャル場の勾配によって，人流の全体像を直感的に可視化・理解することが可能になる．
 
-Urban spatial structures from human flow by Hodge-Kodaira decomposition, Takaaki Aoki, Shota Fujishima & Naoya Fujiwara, https://arxiv.org/abs/2111.00377 
+Urban spatial structures from human flow by Hodge-Kodaira decomposition, Takaaki Aoki, Shota Fujishima & Naoya Fujiwara, [https://arxiv.org/abs/2111.00377](https://arxiv.org/abs/2111.00377)
 
 ---
 
