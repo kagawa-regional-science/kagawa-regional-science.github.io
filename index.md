@@ -27,7 +27,7 @@ March 2 (Thu.), 2023, 16:00-17:30
 **森田 忠士 氏 Tadashi Morita** (Kindai University)
 
 
-Title: **TBA**
+Title: **Optimal city size with endogenous fertility**
 
 Abstract: TBA
 
