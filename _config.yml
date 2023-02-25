@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: 香川大学・地域科学セミナー
 description: Regional Science Seminar, Kagawa University
+plugins:
+  - jekyll-sitemap
