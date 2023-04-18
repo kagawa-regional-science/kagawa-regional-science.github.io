@@ -1,4 +1,4 @@
-# Upcoming Seminar
+# Latest Seminar
 
 March 2 (Thu.), 2023, 16:00-17:30
 
@@ -10,13 +10,11 @@ March 2 (Thu.), 2023, 16:00-17:30
 
 Title: **Optimal city size with endogenous fertility**
 
-Abstract: TBA
-
 ---
 
 世話人：
 
-青木 高明（香川大学教育学部）[[Personal Website](https://www.ed.kagawa-u.ac.jp/~aoki/)]
+青木 高明（滋賀大学データサイエンス学部）[[Personal Website](https://takaakiaokiwork.github.io/)]
 
 島根 哲哉（香川大学大学院地域マネジメント研究科）
 
