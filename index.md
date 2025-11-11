@@ -15,7 +15,9 @@
 ・ネットワーク科学： 企業間取引ネットワークと経済成長、ソーシャルネットワークと意思決定、経済圏の形成とネットワーク発展、インフラネットワークの可視化と分析など。
 
 報告希望者は、以下のGoogle Formsより申し込みを行ってください。
-https://www.google.com/url?q=https://forms.gle/GGnHd75dvioxHndk7&source=gmail-imap&ust=1763459742000000&usg=AOvVaw3FJw7uUW4pTw3umYOKtL-P
+
+[申し込み](https://www.google.com/url?q=https://forms.gle/GGnHd75dvioxHndk7&source=gmail-imap&ust=1763459742000000&usg=AOvVaw3FJw7uUW4pTw3umYOKtL-P) 
+
 聴講のみの方も、同じGoogle Formsから参加登録をお願いします。
 
 申し込み締切： 2025年12月19日（金）
