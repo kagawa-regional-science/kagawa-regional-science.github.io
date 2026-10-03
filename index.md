@@ -1,10 +1,9 @@
 # Latest Seminar
 
 
-## Call for papers
+## Regional Complexity Workshop (RCW)
 
-Regional Complexity Workshop (RCW)
-日時：2026年11月9日（月）〜10日（火）（1日目：午後、2日目：午前）
+日時：2026年11月9日（月）10:00〜18:00（午前は自由討論）、10日（火）9:10〜12:00
 場所：国際高等研究所（京都府木津川市）
 世話人：藤嶋翔太（一橋大学）、青木高明（滋賀大学）、藤原直哉（東北大学）、高山雄貴（東京科学大学）
 
@@ -22,6 +21,40 @@ Regional Complexity Workshop (RCW) は、地域・都市・交通・空間経済
 * 地域・都市システムに関する理論・数理・計算手法
 
 完成論文だけでなく、進行中の研究やアイデア段階の研究発表も歓迎します。研究内容をブラッシュアップするための議論の場として活用していただければ幸いです。
+
+## Program
+
+各発表は、発表30分・質疑応答10分です。
+
+### 11月9日（月）
+
+- 10:00-12:00 自由討論（任意参加）
+- 13:00-13:10 オープニング（藤嶋翔太）
+
+セッション1 施設・店舗配置と中心地形成（司会：青木高明）
+- 13:10-13:50 施設配置問題と動学的不整合：空間均衡状態における最適配置の存在について（甲川輝流、筑波大学）
+- 13:50-14:30 Pottsモデルの逆問題を通じた小売店の業種間相互作用の推定（田嶋廉、東京大学）
+- 14:30-15:10 ゲーム理論を用いた自治体間連携の有効性の検証とあるべき姿の解明（中野孝徳、埼玉大学）
+- 15:10-15:50 散逸系モデルによる都市内中心地の階層形成（紀伊雅敦、大阪大学）
+
+15:50-16:00 休憩
+
+セッション2 交通（司会：高山雄貴）
+- 16:00-16:40 確率的ボトルネックモデルにおける出発時刻分布の定常分布（藤原直哉、東北大学）
+- 16:40-17:20 Bottleneck Model with Atomic Vehicles: Queue Replacement Principle and Decentralized Adjustment to Equilibrium（酒井高良、東京科学大学）
+- 17:20-18:00 Estimating Rail Commuter Preferences under Endogenous Crowding: A Population Game Approach to Train Choice in Tokyo（松本涼佑、鉄道総合技術研究所・一橋大学院）
+
+### 11月10日（火）
+
+セッション3 構造推定・空間経済（司会：藤原直哉）
+- 9:10-9:50 動学的数量空間モデル(D-QSM)の推定とインフラ政策の便益評価（伊藤晴人、東京大学）
+- 9:50-10:30 Structural Estimation of Spatial Equilibrium Models: A Nonlinear Extension of Spatial Autoregressive Models（瀬木俊輔、神戸大学）
+- 10:30-11:10 将来予見的な移住と集積形成（大澤実、京都大学）
+- 11:10-11:50 An Equilibrium Analysis on China's Higher Education Market under Admission Uncertainty（覃雷・湯習文、新潟県立大学・武蔵大学）
+
+- 11:50-12:00 クロージング（藤嶋翔太）
+
+## Call for papers（発表・聴講の申込みは終了しました）
 
 参加申込み
 発表・聴講ともに、以下の Google Forms よりお申し込みください。
